@@ -1,0 +1,12 @@
+{
+    "provider": {
+        "AnalysisServices": {
+            "entity": "server",
+            "long-name": "Azure Analysis Services server",
+            "min-length": 3,
+            "max-length": 63,
+            "rules": ["start-lowercase", "alphanumeric"],
+            "abbreviation": "as"
+        }
+    }
+}
